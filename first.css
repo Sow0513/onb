@@ -1,0 +1,33 @@
+
+    body
+        
+            label1{
+                background-color: aquamarine;
+            }
+                label2{
+                    background-color: blanchedalmond;
+                }
+                label3{
+                    background-color: pink;
+                }
+            input[type=text]{
+                border-color: rgb(36, 10, 10);
+                background-color: aqua;
+            }
+            input[type=numeric]{
+                border-color: black;
+                background-color: orange;
+            }
+            input[type=email]{
+                border-color: black;
+                background-color:powderblue;
+            }
+            div{
+                background-color: lightgreen;
+                border-color: blueviolet 10px;
+                width : 300px;
+                height : 400px;
+            }
+        
+        body
+    
